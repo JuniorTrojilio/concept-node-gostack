@@ -131,5 +131,7 @@ next() //não interrompe
 ```
 
 ---
-<p align="center"> <> with 💙 by Junior Trojilio </p>
-<a href="https://www.notion.so/Modulo-01-Node-0767935399044cce8e70d56974e03f9c" align="center"> link to Notion <a>
+<div align="center">
+<p> <> with 💙 by Junior Trojilio </p>
+<a href="https://www.notion.so/Modulo-01-Node-0767935399044cce8e70d56974e03f9c"> link to Notion <a>
+</div>
