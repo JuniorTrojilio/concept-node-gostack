@@ -5,7 +5,7 @@
 
 <p align="center">In this initial module we learn the main node concepts.</p>
 <div display="inline" align="center">
-<img src="https://img.shields.io/github/license/juniortrojilio/concept-node-gostack" >
+<img src="https://img.shields.io/github/license/juniortrojilio/concept-node-gostack?style=flat-square" >
 <img src="https://img.shields.io/github/last-commit/juniortrojilio/concept-node-gostack">
 </div>
 
