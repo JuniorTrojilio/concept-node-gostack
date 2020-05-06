@@ -13,7 +13,7 @@
 
 # Metodos HTTP
 
-## GET
+## Get
 
 Utilizado para buscar informação do back-end
 
