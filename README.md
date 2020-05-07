@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/39541807/81132560-3a20a000-8f25-11ea-8179-4f4540936787.png">
-<div>
-<h1 align="center"> Node Concepts</h1>
-
+	<img src="https://user-images.githubusercontent.com/39541807/81132560-3a20a000-8f25-11ea-8179-4f4540936787.png">
+	<h1> Node Concepts</h1>
+</div>
 <p align="center">In this initial module we learn the main node concepts.</p>
 <div display="inline" align="center">
-<img src="https://img.shields.io/github/license/juniortrojilio/concept-node-gostack" >
+<img src="https://img.shields.io/github/license/juniortrojilio/concept-node-gostack?style=flat-square" >
 <img src="https://img.shields.io/github/last-commit/juniortrojilio/concept-node-gostack">
 </div>
 
@@ -13,7 +12,7 @@
 
 # Metodos HTTP
 
-## GET
+## Get
 
 Utilizado para buscar informação do back-end
 
@@ -132,5 +131,7 @@ next() //não interrompe
 ```
 
 ---
-<p align="center"> <> with 💙 by Junior Trojilio </p>
-<a href="https://www.notion.so/Modulo-01-Node-0767935399044cce8e70d56974e03f9c" align="center"> link to Notion <a>
+<div align="center">
+<p> <> with 💙 by Junior Trojilio </p>
+<a href="https://www.notion.so/Modulo-01-Node-0767935399044cce8e70d56974e03f9c"> link to Notion <a>
+</div>
